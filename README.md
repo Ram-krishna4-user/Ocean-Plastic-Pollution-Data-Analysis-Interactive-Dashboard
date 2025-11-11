@@ -56,3 +56,5 @@ When a filter is applied, all charts update automatically, allowing easy explora
 # 4. Insight Interpretation & Recommendations
 
 Based on the visual exploration and query results, meaningful conclusions were drawn. These were then summarized along with realistic recommendations for policymakers, environmental organizations, and cleanup initiatives.
+
+This project successfully demonstrates how data analytics and visualization can transform raw environmental data into clear, actionable insights. The dashboard allows users to interactively explore pollution patterns, helping raise awareness and guide sustainable decision-making.
